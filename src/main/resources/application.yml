@@ -1,0 +1,53 @@
+spring:
+  profiles:
+    active: dev
+  datasource:
+    name: test
+    url: jdbc:mysql://127.0.0.1:3306/t_books?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: 123456
+    # 使用druid数据源
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    filters: stat
+    maxActive: 20
+    initialSize: 1
+    maxWait: 60000
+    minIdle: 1
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    validationQuery: select 'x'
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    poolPreparedStatements: true
+    maxOpenPreparedStatements: 20
+    tomcat:
+      initialSize: 1
+      min-idle: 1
+      max-idle: 20
+      max-wait: 60000
+      timeBetweenEvictionRunsMillis: 60000
+      minEvictableIdleTimeMillis: 30000
+      validationQuery: SELECT 1
+      testWhileIdle: true
+      testOnBorrow: false
+      testOnReturn: false
+logging:
+
+  file:
+    path: logs
+  level:
+    root: error
+    com.mickszhu.demo: debug
+  pattern:
+    console: '%d{yyyy-MM-dd HH:mm:ss} %logger{15} - %msg%n'
+    file: '%d{yyyy-MM-dd HH:mm:ss} %logger{15} - %msg%n'
+
+mybatis:
+  mapper-locations: classpath:mybatis/*.xml  #注意：一定要对应mapper映射xml文件的所在路径
+  type-aliases-package: com.mickszhu.demo  # 注意：对应实体类的路径
+  configuration:
+    cache-enabled: true
+    local-cache-scope: session
+
