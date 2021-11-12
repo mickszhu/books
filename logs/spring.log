@@ -1295,3 +1295,61 @@ Caused by: java.lang.IllegalStateException: Error reading source 'classpath: /my
 2021-11-12 15:47:33 c.m.d.b.t.SortTest - 输出：4
 2021-11-12 15:47:33 c.m.d.b.t.SortTest - 输出：5
 2021-11-12 15:47:33 c.m.d.b.t.SortTest - 输出：6
+2021-11-12 16:00:30 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 5237 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-12 16:00:30 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-12 16:00:30 c.m.d.b.t.SortTest - The following profiles are active: dev
+2021-11-12 16:00:33 c.m.d.b.t.SortTest - Started SortTest in 18.111 seconds (JVM running for 19.987)
+2021-11-12 16:05:22 c.m.d.b.t.SortTest - 输出：2
+2021-11-12 16:05:22 c.m.d.b.t.SortTest - 输出：3
+2021-11-12 16:05:22 c.m.d.b.t.SortTest - 输出：4
+2021-11-12 16:05:22 c.m.d.b.t.SortTest - 输出：5
+2021-11-12 16:05:22 c.m.d.b.t.SortTest - 输出：6
+2021-11-12 16:05:59 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 5637 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-12 16:05:59 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-12 16:05:59 c.m.d.b.t.SortTest - The following profiles are active: dev
+2021-11-12 16:06:01 c.m.d.b.t.SortTest - Started SortTest in 17.754 seconds (JVM running for 19.084)
+2021-11-12 16:10:13 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 5925 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-12 16:10:13 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-12 16:10:13 c.m.d.b.t.SortTest - The following profiles are active: dev
+2021-11-12 16:10:17 c.m.d.b.t.SortTest - Started SortTest in 18.909 seconds (JVM running for 20.118)
+2021-11-12 16:10:52 c.m.d.b.t.SortTest - 输出：2
+2021-11-12 16:10:52 c.m.d.b.t.SortTest - 输出：3
+2021-11-12 16:10:52 c.m.d.b.t.SortTest - 输出：4
+2021-11-12 16:10:52 c.m.d.b.t.SortTest - 输出：5
+2021-11-12 16:10:52 c.m.d.b.t.SortTest - 输出：7
+2021-11-12 18:06:21 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 13768 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-12 18:06:21 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-12 18:06:21 c.m.d.b.t.SortTest - The following profiles are active: dev
+2021-11-12 18:06:25 c.m.d.b.t.SortTest - Started SortTest in 19.452 seconds (JVM running for 21.201)
+2021-11-12 18:06:25 c.m.d.b.t.SortTest - 7
+2021-11-12 18:50:20 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 16646 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-12 18:50:20 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-12 18:50:20 c.m.d.b.t.SortTest - The following profiles are active: dev
+2021-11-12 18:50:26 c.m.d.b.t.SortTest - Started SortTest in 22.359 seconds (JVM running for 24.085)
+2021-11-12 18:50:27 c.m.d.b.t.SortTest - max:9,mix:1,diffren;8
+2021-11-12 18:56:51 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 17107 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-12 18:56:51 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-12 18:56:51 c.m.d.b.t.SortTest - The following profiles are active: dev
+2021-11-12 18:56:54 c.m.d.b.t.SortTest - Started SortTest in 18.593 seconds (JVM running for 19.81)
+2021-11-12 18:56:55 c.m.d.b.t.SortTest - 打印结果：
+2021-11-12 18:56:55 c.m.d.b.t.SortTest - max:9,maxIndex:3,mix:1,mixIndex:4,diffren;8
+2021-11-12 19:07:21 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 17823 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-12 19:07:21 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-12 19:07:21 c.m.d.b.t.SortTest - The following profiles are active: dev
+2021-11-12 19:07:24 c.m.d.b.t.SortTest - Started SortTest in 19.009 seconds (JVM running for 20.155)
+2021-11-12 19:07:25 c.m.d.b.t.SortTest - 打印结果：第1天买入 第4天卖出 收益5
+2021-11-12 19:08:30 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 17899 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-12 19:08:30 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-12 19:08:30 c.m.d.b.t.SortTest - The following profiles are active: dev
+2021-11-12 19:08:33 c.m.d.b.t.SortTest - Started SortTest in 18.707 seconds (JVM running for 19.815)
+2021-11-12 19:08:33 c.m.d.b.t.SortTest - 打印结果：第1天买入 第4天卖出 收益5
+2021-11-12 22:44:11 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 31999 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-12 22:44:11 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-12 22:44:11 c.m.d.b.t.SortTest - The following profiles are active: dev
+2021-11-12 22:44:17 c.m.d.b.t.SortTest - Started SortTest in 21.751 seconds (JVM running for 22.877)
+2021-11-12 22:44:17 c.m.d.b.t.SortTest - 打印结果：7
+2021-11-12 22:46:53 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 32169 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-12 22:46:53 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-12 22:46:53 c.m.d.b.t.SortTest - The following profiles are active: dev
+2021-11-12 22:46:58 c.m.d.b.t.SortTest - Started SortTest in 20.107 seconds (JVM running for 21.277)
+2021-11-12 22:48:31 c.m.d.b.t.SortTest - 打印结果：7
