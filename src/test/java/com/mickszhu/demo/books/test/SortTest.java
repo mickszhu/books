@@ -1,6 +1,5 @@
 package com.mickszhu.demo.books.test;
 
-import com.jayway.jsonpath.internal.function.numeric.Min;
 import com.mickszhu.demo.books.BaseTest;
 import lombok.extern.slf4j.Slf4j;
 
