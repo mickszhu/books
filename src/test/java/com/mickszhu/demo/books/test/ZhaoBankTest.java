@@ -12,8 +12,8 @@ public class ZhaoBankTest  extends BaseTest {
     @Test
     public void getValueTest(){
         //[1,3,5,2,4],[1,2,3,4,5]
-        int[]  nums= {1,3,5,2,4};
-        int[]  values = {1,2,3,4,5};
+        int[]  nums= {3,1,2,5,4};
+        int[]  values = {5,4,3,2,1};
         //[1,100],[2,1]
 
         int maxValue = getMaxValue(nums, values);
@@ -28,32 +28,34 @@ public class ZhaoBankTest  extends BaseTest {
         }
 
         int numLength = nums.length;
-        int changStartIndex =0;
-        int changeCount=0;
-        if(numLength % 2 == 0){
-            changStartIndex = numLength/2;
-        }else {
-            changStartIndex = numLength/2 + 1;
+        int starIndex =0;
+        int endIndex=numLength-1;
+
+        int[] numsNew = new int[numLength];
+        //倒排还是顺排
+        boolean sortDesc = false;
+        if(values.length>=1){
+            if(values[0]< values[1]){
+                sortDesc = true;
+            }
         }
 
-        for (int i=1; i<=numLength;i++){
-            int valueIndex=i-1;
-            int numIndex=i-1;
-            if (i>=changStartIndex){
-                numIndex = numLength-changeCount-1;
-                changeCount ++;
+        for (int i=0; i<numLength;i++){
+            if( sortDesc && nums[starIndex] <= nums[endIndex]
+            || !sortDesc && nums[starIndex] >= nums[endIndex]
+            ){
+                numsNew[i] = nums[starIndex];
+                starIndex ++;
+            }else{
+                numsNew[i] = nums[endIndex];
+                endIndex--;
             }
-            int value = values[valueIndex];
-            if(value>=1000){
-                value=1000;
-            }
-            int num = nums[numIndex];
-            if(num<=1){
-                num=1;
-            }
-            everyGetTotalValue +=  value*num;
         }
-
+        log.info("numNew:{}",numsNew);
+        for (int i =0;i< numLength;i++) {
+            everyGetTotalValue += numsNew[i]* values[i];
+            log.info("num:{},numNew:{},values:{},total:{}",i+1,numsNew[i],values[i],everyGetTotalValue);
+        }
         return everyGetTotalValue;
     }
 
