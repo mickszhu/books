@@ -1,5 +1,231 @@
-2021-11-13 19:47:36 c.m.d.b.t.SortTest - Starting SortTest on MickBookPro.local with PID 48040 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
-2021-11-13 19:47:36 c.m.d.b.t.SortTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
-2021-11-13 19:47:36 c.m.d.b.t.SortTest - The following profiles are active: dev
-2021-11-13 19:47:41 c.m.d.b.t.SortTest - Started SortTest in 19.759 seconds (JVM running for 21.109)
-2021-11-13 19:47:41 c.m.d.b.t.SortTest - 打印结果：7
+2021-11-14 14:29:54 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1526 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:29:54 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:29:54 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:29:57 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 17.991 seconds (JVM running for 20.375)
+2021-11-14 14:30:41 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1538 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:30:41 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:30:41 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:30:43 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 17.456 seconds (JVM running for 18.825)
+2021-11-14 14:30:43 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:48
+2021-11-14 14:33:26 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1626 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:33:26 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:33:26 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:33:32 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 21.788 seconds (JVM running for 23.094)
+2021-11-14 14:33:33 c.m.d.b.t.ZhaoBankTest - num:1,values:1,total:1
+2021-11-14 14:33:33 c.m.d.b.t.ZhaoBankTest - num:2,values:3,total:7
+2021-11-14 14:33:33 c.m.d.b.t.ZhaoBankTest - num:3,values:2,total:19
+2021-11-14 14:33:33 c.m.d.b.t.ZhaoBankTest - num:4,values:5,total:27
+2021-11-14 14:33:33 c.m.d.b.t.ZhaoBankTest - num:5,values:3,total:52
+2021-11-14 14:33:33 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:52
+2021-11-14 14:35:00 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1660 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:35:00 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:35:00 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:35:03 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.408 seconds (JVM running for 19.9)
+2021-11-14 14:35:03 c.m.d.b.t.ZhaoBankTest - num:2,values:1,total:2
+2021-11-14 14:35:03 c.m.d.b.t.ZhaoBankTest - num:1,values:1,total:102
+2021-11-14 14:35:03 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:102
+2021-11-14 14:36:06 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1685 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:36:06 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:36:06 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:36:08 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 17.551 seconds (JVM running for 18.819)
+2021-11-14 14:36:07 c.m.d.b.t.ZhaoBankTest - num:2,values:1,total:200
+2021-11-14 14:37:07 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1704 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:37:07 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:37:07 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:37:13 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 21.26 seconds (JVM running for 22.83)
+2021-11-14 14:38:35 c.m.d.b.t.ZhaoBankTest - num:2,values:1,total:200
+2021-11-14 14:41:06 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1781 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:41:06 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:41:06 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:41:09 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.018 seconds (JVM running for 19.408)
+2021-11-14 14:41:15 c.m.d.b.t.ZhaoBankTest - index:1,num:1,values:1,total:1
+2021-11-14 14:41:15 c.m.d.b.t.ZhaoBankTest - index:2,num:2,values:2,total:9
+2021-11-14 14:41:15 c.m.d.b.t.ZhaoBankTest - index:3,num:3,values:5,total:15
+2021-11-14 14:41:15 c.m.d.b.t.ZhaoBankTest - index:4,num:4,values:3,total:35
+2021-11-14 14:41:15 c.m.d.b.t.ZhaoBankTest - index:5,num:5,values:1,total:50
+2021-11-14 14:41:15 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:50
+2021-11-14 14:42:56 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1819 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:42:56 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:42:56 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:42:58 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 17.807 seconds (JVM running for 19.05)
+2021-11-14 14:43:30 c.m.d.b.t.ZhaoBankTest - index:1,num:1,values:1,total:1
+2021-11-14 14:43:30 c.m.d.b.t.ZhaoBankTest - index:2,num:2,values:3,total:7
+2021-11-14 14:43:30 c.m.d.b.t.ZhaoBankTest - index:3,num:3,values:2,total:19
+2021-11-14 14:43:30 c.m.d.b.t.ZhaoBankTest - index:4,num:4,values:5,total:27
+2021-11-14 14:43:30 c.m.d.b.t.ZhaoBankTest - index:5,num:5,values:3,total:52
+2021-11-14 14:43:30 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:52
+2021-11-14 14:45:44 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1886 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:45:44 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:45:44 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:45:48 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 20.242 seconds (JVM running for 21.586)
+2021-11-14 14:46:03 c.m.d.b.t.ZhaoBankTest - index:1,num:1,values:1,total:1
+2021-11-14 14:46:03 c.m.d.b.t.ZhaoBankTest - index:2,num:2,values:3,total:7
+2021-11-14 14:46:03 c.m.d.b.t.ZhaoBankTest - index:3,num:3,values:2,total:19
+2021-11-14 14:46:03 c.m.d.b.t.ZhaoBankTest - index:4,num:4,values:5,total:27
+2021-11-14 14:46:03 c.m.d.b.t.ZhaoBankTest - index:5,num:5,values:3,total:52
+2021-11-14 14:46:03 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:52
+2021-11-14 14:47:29 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1924 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:47:29 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:47:29 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:47:32 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.54 seconds (JVM running for 19.83)
+2021-11-14 14:47:40 c.m.d.b.t.ZhaoBankTest - index:1,num:1,values:1,total:1
+2021-11-14 14:47:43 c.m.d.b.t.ZhaoBankTest - index:2,num:2,values:3,total:7
+2021-11-14 14:47:43 c.m.d.b.t.ZhaoBankTest - index:3,num:3,values:5,total:22
+2021-11-14 14:47:43 c.m.d.b.t.ZhaoBankTest - index:4,num:4,values:2,total:38
+2021-11-14 14:47:43 c.m.d.b.t.ZhaoBankTest - index:5,num:5,values:5,total:48
+2021-11-14 14:47:43 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:48
+2021-11-14 14:49:31 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 1964 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:49:31 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:49:31 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:49:35 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 19.421 seconds (JVM running for 20.681)
+2021-11-14 14:49:36 c.m.d.b.t.ZhaoBankTest - index:1,num:1,values:1,total:1
+2021-11-14 14:49:36 c.m.d.b.t.ZhaoBankTest - index:2,num:2,values:3,total:7
+2021-11-14 14:49:36 c.m.d.b.t.ZhaoBankTest - index:3,num:3,values:2,total:19
+2021-11-14 14:49:36 c.m.d.b.t.ZhaoBankTest - index:4,num:4,values:5,total:27
+2021-11-14 14:49:36 c.m.d.b.t.ZhaoBankTest - index:5,num:5,values:3,total:52
+2021-11-14 14:49:36 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:52
+2021-11-14 14:51:43 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 2008 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:51:43 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:51:43 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:51:48 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 19.839 seconds (JVM running for 21.053)
+2021-11-14 14:52:30 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 2026 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:52:30 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:52:30 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:52:33 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.612 seconds (JVM running for 19.797)
+2021-11-14 14:53:27 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 2047 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:53:27 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:53:27 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:53:29 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.048 seconds (JVM running for 19.363)
+2021-11-14 14:56:38 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 2104 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:56:38 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:56:38 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:56:41 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.429 seconds (JVM running for 19.812)
+2021-11-14 14:57:04 c.m.d.b.t.ZhaoBankTest - index:1,num:2,values:100,total:200
+2021-11-14 14:58:28 c.m.d.b.t.ZhaoBankTest - index:2,num:1,values:1,total:201
+2021-11-14 14:58:28 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:201
+2021-11-14 14:59:07 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 2165 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:59:07 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:59:07 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:59:09 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 17.979 seconds (JVM running for 19.447)
+2021-11-14 14:59:10 c.m.d.b.t.ZhaoBankTest - index:1,num:2,values:1,total:200
+2021-11-14 14:59:49 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 2172 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 14:59:49 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 14:59:49 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 14:59:51 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.061 seconds (JVM running for 19.595)
+2021-11-14 15:00:00 c.m.d.b.t.ZhaoBankTest - index:1,num:2,values:1,total:200
+2021-11-14 15:01:03 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 2209 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:01:03 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:01:03 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:01:09 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 21.378 seconds (JVM running for 22.603)
+2021-11-14 15:01:09 c.m.d.b.t.ZhaoBankTest - index:1,num:2,values:100,total:200
+2021-11-14 15:01:09 c.m.d.b.t.ZhaoBankTest - index:2,num:1,values:1,total:201
+2021-11-14 15:01:09 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:201
+2021-11-14 15:09:11 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 2360 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:09:11 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:09:11 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:09:17 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 20.928 seconds (JVM running for 22.133)
+2021-11-14 15:09:17 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:201
+2021-11-14 15:10:03 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 2370 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:10:03 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:10:03 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:10:05 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 17.647 seconds (JVM running for 18.958)
+2021-11-14 15:10:05 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:52
+2021-11-14 15:11:52 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 2405 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:11:52 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:11:52 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:11:55 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.173 seconds (JVM running for 19.463)
+2021-11-14 15:11:55 c.m.d.b.t.ZhaoBankTest - everyGetTotalValue:52
+2021-11-14 15:52:01 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3132 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:52:01 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:52:01 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:52:07 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 21.768 seconds (JVM running for 23.086)
+2021-11-14 15:52:07 c.m.d.b.t.ZhaoBankTest - tranArr:[2, 2]
+2021-11-14 15:52:56 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3151 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:52:56 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:52:56 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:52:59 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.763 seconds (JVM running for 19.901)
+2021-11-14 15:53:00 c.m.d.b.t.ZhaoBankTest - maxLength:8,runtNumMax:4}
+2021-11-14 15:53:00 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-0
+2021-11-14 15:54:18 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3174 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:54:18 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:54:18 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:54:25 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 22.334 seconds (JVM running for 23.662)
+2021-11-14 15:54:45 c.m.d.b.t.ZhaoBankTest - maxLength:8,runtNumMax:4}
+2021-11-14 15:54:45 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-0
+2021-11-14 15:55:22 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3197 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:55:22 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:55:22 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:55:52 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3216 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:55:52 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:55:52 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:55:56 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 19.36 seconds (JVM running for 20.533)
+2021-11-14 15:57:02 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3244 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:57:02 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:57:02 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:57:05 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 19.178 seconds (JVM running for 20.395)
+2021-11-14 15:57:24 c.m.d.b.t.ZhaoBankTest - maxLength:8,runtNumMax:4}
+2021-11-14 15:57:24 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-0
+2021-11-14 15:58:41 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3284 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 15:58:41 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 15:58:41 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 15:58:44 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.611 seconds (JVM running for 19.755)
+2021-11-14 15:58:54 c.m.d.b.t.ZhaoBankTest - maxLength:7,runtNumMax:3}
+2021-11-14 15:58:54 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-1
+2021-11-14 16:08:38 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3495 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 16:08:38 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 16:08:38 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 16:08:42 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 19.029 seconds (JVM running for 20.421)
+2021-11-14 16:08:46 c.m.d.b.t.ZhaoBankTest - maxLength:7,runtNumMax:3}
+2021-11-14 16:08:46 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-1
+2021-11-14 16:09:56 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3518 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 16:09:56 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 16:09:56 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 16:10:03 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 22.949 seconds (JVM running for 24.182)
+2021-11-14 16:10:07 c.m.d.b.t.ZhaoBankTest - maxLength:7,runtNumMax:3}
+2021-11-14 16:10:07 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-1
+2021-11-14 16:11:03 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3544 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 16:11:03 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 16:11:03 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 16:11:06 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 18.16 seconds (JVM running for 19.271)
+2021-11-14 16:11:08 c.m.d.b.t.ZhaoBankTest - maxLength:7,runtNumMax:3}
+2021-11-14 16:11:08 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-1
+2021-11-14 16:11:13 c.m.d.b.t.ZhaoBankTest - arrB:[4, 5]
+2021-11-14 16:12:10 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3568 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 16:12:10 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 16:12:10 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 16:12:14 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 19.355 seconds (JVM running for 20.56)
+2021-11-14 16:12:17 c.m.d.b.t.ZhaoBankTest - maxLength:7,runtNumMax:3}
+2021-11-14 16:12:17 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-1
+2021-11-14 16:12:17 c.m.d.b.t.ZhaoBankTest - arrB:[4, 5]
+2021-11-14 16:12:21 c.m.d.b.t.ZhaoBankTest - tranArr:[8, 8]
+2021-11-14 16:13:36 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3592 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 16:13:36 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 16:13:36 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 16:13:46 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 25.048 seconds (JVM running for 26.227)
+2021-11-14 16:13:49 c.m.d.b.t.ZhaoBankTest - maxLength:7,runtNumMax:3}
+2021-11-14 16:13:49 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-1
+2021-11-14 16:13:49 c.m.d.b.t.ZhaoBankTest - arrB:[4, 5]
+2021-11-14 16:14:40 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3628 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 16:14:40 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 16:14:40 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 16:14:52 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 27.062 seconds (JVM running for 28.195)
+2021-11-14 16:14:55 c.m.d.b.t.ZhaoBankTest - maxLength:7,runtNumMax:3}
+2021-11-14 16:14:55 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-1
+2021-11-14 16:14:55 c.m.d.b.t.ZhaoBankTest - arrB:[4, 5]
+2021-11-14 16:14:57 c.m.d.b.t.ZhaoBankTest - tranArr:[5, 5]
+2021-11-14 16:16:05 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3655 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 16:16:05 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 16:16:05 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 16:16:13 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 23.655 seconds (JVM running for 24.768)
+2021-11-14 16:16:13 c.m.d.b.t.ZhaoBankTest - maxLength:7,runtNumMax:3}
+2021-11-14 16:16:13 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-8,mixArr-1
+2021-11-14 16:16:13 c.m.d.b.t.ZhaoBankTest - arrB:[4, 5]
+2021-11-14 16:16:13 c.m.d.b.t.ZhaoBankTest - tranArr:[4, 5]
+2021-11-14 16:17:44 c.m.d.b.t.ZhaoBankTest - Starting ZhaoBankTest on MickBookPro.local with PID 3695 (started by zhukeshun in /Users/zhukeshun/Documents/ideaProject/books)
+2021-11-14 16:17:44 c.m.d.b.t.ZhaoBankTest - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-11-14 16:17:44 c.m.d.b.t.ZhaoBankTest - The following profiles are active: dev
+2021-11-14 16:17:49 c.m.d.b.t.ZhaoBankTest - Started ZhaoBankTest in 20.581 seconds (JVM running for 21.691)
+2021-11-14 16:17:49 c.m.d.b.t.ZhaoBankTest - maxLength:10,runtNumMax:5}
+2021-11-14 16:17:49 c.m.d.b.t.ZhaoBankTest - arrA:maxArr-9,mixArr--1
+2021-11-14 16:17:49 c.m.d.b.t.ZhaoBankTest - arrB:[4, 4, 4]
+2021-11-14 16:17:49 c.m.d.b.t.ZhaoBankTest - tranArr:[4, 4]
